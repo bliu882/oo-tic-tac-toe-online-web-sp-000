@@ -19,5 +19,5 @@ class TicTacToe
     @board
   end
   
-  def input to index 
-    
+  def input_to_index 
+    index.to_i
