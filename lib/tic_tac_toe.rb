@@ -15,4 +15,9 @@ class TicTacToe
   ]
   end
   
-  def 
+  def display_board
+    @board
+  end
+  
+  def input to index 
+    
